@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:9.609600,
+https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Ftvcanais.ml%2Fhls%2FM3G4tVcAn48zis%2F58mE2CachetliII%2F82%2F4d2af00fa2d0b4bfcaa7c94c2f32160b%2F82_333.ts&live=true&token=clE0TkRTdnlpOUMvODAwRWtiWG5hdFkxUjRjc1g3Y0poanNlTUtSQ09iMnNxS3VycTJXY0JPcDdqZnZPTWFTWDo6cnsDe6Phz%2FknodMpjH0GKw%3D%3D
+#EXTINF:9.609600,
+https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Ftvcanais.ml%2Fhls%2FM3G4tVcAn48zis%2F58mE2CachetliII%2F82%2Feb23d513d4e5d45d675623fc456cb1be%2F82_334.ts&live=true&token=clE0TkRTdnlpOUMvODAwRWtiWG5hdFkxUjRjc1g3Y0poanNlTUtSQ09iMnNxS3VycTJXY0JPcDdqZnZPTWFTWDo6cnsDe6Phz%2FknodMpjH0GKw%3D%3D
+#EXTINF:9.609600,
+https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Ftvcanais.ml%2Fhls%2FM3G4tVcAn48zis%2F58mE2CachetliII%2F82%2Fdde70f3b34fa4134abd128b508df6fdb%2F82_335.ts&live=true&token=clE0TkRTdnlpOUMvODAwRWtiWG5hdFkxUjRjc1g3Y0poanNlTUtSQ09iMnNxS3VycTJXY0JPcDdqZnZPTWFTWDo6cnsDe6Phz%2FknodMpjH0GKw%3D%3D
+#EXTINF:11.211200,
+https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Ftvcanais.ml%2Fhls%2FM3G4tVcAn48zis%2F58mE2CachetliII%2F82%2F058ee381928d1493c652da7f90776c43%2F82_336.ts&live=true&token=clE0TkRTdnlpOUMvODAwRWtiWG5hdFkxUjRjc1g3Y0poanNlTUtSQ09iMnNxS3VycTJXY0JPcDdqZnZPTWFTWDo6cnsDe6Phz%2FknodMpjH0GKw%3D%3D
+#EXTINF:9.609600,
+https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Ftvcanais.ml%2Fhls%2FM3G4tVcAn48zis%2F58mE2CachetliII%2F82%2Fb116c6b6a81eb74356af77f89bf2f81d%2F82_337.ts&live=true&token=clE0TkRTdnlpOUMvODAwRWtiWG5hdFkxUjRjc1g3Y0poanNlTUtSQ09iMnNxS3VycTJXY0JPcDdqZnZPTWFTWDo6cnsDe6Phz%2FknodMpjH0GKw%3D%3D
+#EXTINF:9.609600,
+https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Ftvcanais.ml%2Fhls%2FM3G4tVcAn48zis%2F58mE2CachetliII%2F82%2F4c0e178f44fd7766b982b603fa1cda09%2F82_338.ts&live=true&token=clE0TkRTdnlpOUMvODAwRWtiWG5hdFkxUjRjc1g3Y0poanNlTUtSQ09iMnNxS3VycTJXY0JPcDdqZnZPTWFTWDo6cnsDe6Phz%2FknodMpjH0GKw%3D%3D
